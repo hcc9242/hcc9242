@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/',
+  base: '/hcc9242/',
   plugins: [vue()],
   build: {
     minify: "terser",
