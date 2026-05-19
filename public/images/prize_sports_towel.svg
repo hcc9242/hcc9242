@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Sports towel prize illustration</title>
+  <desc id="desc">A folded sports towel with soft stripes and warm shadows.</desc>
+  <rect width="960" height="720" rx="44" fill="#fffdfb"/>
+  <circle cx="750" cy="174" r="96" fill="#f8d6c6"/>
+  <circle cx="220" cy="526" r="126" fill="#e9f4ef"/>
+  <path d="M285 190h390c53 0 96 43 96 96v10H381c-53 0-96-43-96-96v-10Z" fill="#c75b39"/>
+  <path d="M381 296h390v234c0 59-48 107-107 107H274c-47 0-85-38-85-85V392c0-53 43-96 96-96h96Z" fill="#f4efe8"/>
+  <path d="M381 296v234c0 59-48 107-107 107" fill="none" stroke="#4a3c31" stroke-width="24" stroke-linecap="round"/>
+  <path d="M458 370h214" stroke="#e98561" stroke-width="24" stroke-linecap="round"/>
+  <path d="M458 444h214" stroke="#e98561" stroke-width="24" stroke-linecap="round"/>
+  <path d="M458 518h150" stroke="#e98561" stroke-width="24" stroke-linecap="round"/>
+  <path d="M253 410h62" stroke="#c75b39" stroke-width="22" stroke-linecap="round"/>
+  <path d="M253 486h62" stroke="#c75b39" stroke-width="22" stroke-linecap="round"/>
+  <path d="M253 562h48" stroke="#c75b39" stroke-width="22" stroke-linecap="round"/>
+</svg>

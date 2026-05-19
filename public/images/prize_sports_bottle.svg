@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Sports bottle prize illustration</title>
+  <desc id="desc">A reusable sports bottle with a simple cap and fresh colour blocks.</desc>
+  <rect width="960" height="720" rx="44" fill="#f8fbff"/>
+  <circle cx="234" cy="180" r="104" fill="#dff2f1"/>
+  <circle cx="722" cy="526" r="132" fill="#f8d6c6"/>
+  <path d="M393 102h174v95l-45 52v317c0 55-45 100-100 100h-58c-55 0-100-45-100-100V249l-45-52v-95h174Z" fill="#c75b39"/>
+  <path d="M356 102h248v80H356z" fill="#4a3c31"/>
+  <path d="M341 255c0-38 31-69 69-69h140c38 0 69 31 69 69v298c0 38-31 69-69 69H410c-38 0-69-31-69-69V255Z" fill="#f3fbff"/>
+  <path d="M341 374h278v118H341z" fill="#e98561"/>
+  <path d="M397 298h166" stroke="#4a3c31" stroke-width="24" stroke-linecap="round"/>
+  <path d="M397 546h166" stroke="#4a3c31" stroke-width="24" stroke-linecap="round"/>
+  <path d="M704 247c40 44 61 93 61 148 0 58-24 111-62 149" fill="none" stroke="#dff2f1" stroke-width="26" stroke-linecap="round"/>
+  <path d="M256 247c-40 44-61 93-61 148 0 58 24 111 62 149" fill="none" stroke="#f8d6c6" stroke-width="26" stroke-linecap="round"/>
+</svg>

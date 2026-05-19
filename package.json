@@ -1,0 +1,22 @@
+{
+  "name": "my-vue-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build:root": "vite build",
+    "build:pages": "VITE_BASE_PATH=/Taiwanese-souvenirs/ vite build",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test tests/sections.test.mjs"
+  },
+  "dependencies": {
+    "vue": "^3.5.32"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.5",
+    "terser": "^5.46.2",
+    "vite": "^8.0.4"
+  }
+}
